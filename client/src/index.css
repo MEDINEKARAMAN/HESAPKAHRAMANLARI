@@ -1,0 +1,47 @@
+/* Defter-i Neşeli tasarım notu: Fildişi çalışma kâğıdı, lacivert mürekkep, Mizan Mercanı ve ölçülü kırtasiye dokusu. */
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "./styles/shell.css";
+@import "./styles/games.css";
+@import "./styles/atlas.css";
+@import "./styles/campus.css";
+@import "./styles/account-plan.css";
+@import "./styles/tips.css";
+@import "./styles/flow-guide.css";
+@import "./styles/journal-fiche.css";
+@import "./styles/game-layout-fixes.css";
+@import "./styles/record-room.css";
+@import "./styles/route-atlas.css";
+@import "./styles/route-enhance.css";
+@import "./styles/record-enhance.css";
+@import "./styles/pages.css";
+@import "./styles/fundamentals.css";
+@import "./styles/home-index.css";
+@import "./styles/resources.css";
+@import "./styles/resources-nav-fix.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "DM Serif Display", Georgia, serif;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-border: var(--border);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --radius-sm: 0.7rem;
+  --radius-md: 1.1rem;
+  --radius-lg: 1.55rem;
+}
+
+:root { --background:#f7f3ea; --foreground:#16223a; --card:#fffdf8; --card-foreground:#16223a; --border:rgba(22,34,58,.11); --primary:#ff6b4a; --primary-foreground:#fffaf2; --ink:#16223a; --paper:#fffdf8; --paper-deep:#ede4d2; --coral:#ff6b4a; --orange:#ff9f1c; --blue:#4386de; --teal:#1aa895; --pink:#ed5f87; --purple:#8e61e9; --yellow:#f1c850; --muted:#657087; --line:rgba(22,34,58,.13); --soft-shadow:0 14px 34px rgba(42,37,28,.08),0 2px 3px rgba(42,37,28,.04); --strong-shadow:0 20px 45px rgba(27,35,58,.13),0 3px 5px rgba(27,35,58,.06); --ease-out:cubic-bezier(.23,1,.32,1); }
+
+* { box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { min-width:320px; margin:0; background:var(--background); color:var(--foreground); font-family:"Manrope",ui-sans-serif,sans-serif; }
+button,a { font:inherit; }
+button { border:0; }
+button:focus-visible,a:focus-visible { outline:3px solid rgba(255,107,74,.44); outline-offset:3px; }

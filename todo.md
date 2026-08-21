@@ -1,0 +1,65 @@
+# Genişletme ve Etkileşim Kontrol Listesi
+
+- [x] 120 Alıcılar ile 320 Satıcılar açıklamasını borç/alacak ilişkisinin doğru yönüyle yeniden yaz.
+- [x] 2026 SGS konu kapsamını güvenilir ders dağılımı kaynağı ve 2026 sınav takvimiyle çapraz doğrula.
+- [x] Alt ve yan gezinti ikonlarını ilgili bölümlere yumuşak kaydırma ile bağla.
+- [x] Hesap seçimine bağlı, hareket yönünü açıklayan öğretici animasyonları uygula.
+- [x] SGS konu rotalarını, konu bazlı oyun ve video kartlarını ekle.
+- [x] Masaüstü ve mobil etkileşimleri test et; son sürümü kaydet.
+- [x] Mali tablolar, gelir/gider tablosu, mizan ve nazım hesapları için görsel eğitim panoları oluştur.
+- [x] Ters bakiye vermemesi gereken ve özel durumlu hesaplar için animasyonlu ok/uyarı sistemi ekle.
+- [x] 640, 760, 770, 780 ve ilişkili hesapları kapsayan genişletilmiş hesap karakter seti oluştur.
+- [x] Koşu oyunu, gelişmiş yevmiye oyunu, görsel soru-cevap ve yeni eşleştirme turları ekle.
+- [x] Hafta bazlı ders takip panosu ve konu ilerleme kaydını ekle.
+- [x] Yeni kampüs akışını masaüstü ve mobilde test ederek güncel sürümü kaydet.
+- [x] Hesap kodları ve açıklamaları her eşleştirme turunda bağımsız biçimde karıştır.
+- [x] Yevmiye oyununa farklı hesap sınıflarını içeren yeni işlem senaryoları ekle.
+- [x] Soru koşusuna açık oyun kuralı, mesafe, hız ve tur tamamlanma geri bildirimi ekle.
+- [x] Her oyun alanına kısa “nasıl oynanır?” yönlendirmesi ekle.
+- [x] Doğru mizanı üç kısa adımla okutan görsel mini rehber ekle.
+- [x] 2026 Emrah Hoca kısa ders videosu ve konu anlatım PDF yönlendirmelerini doğrula.
+- [x] Güncellenen oyun ve kaynak akışlarını masaüstü/mobilde test ederek sürümü kaydet.
+- [x] Hesap akış haritasının düğüm, rota, seçili hesap ve açıklama mantığını görünür biçimde anlat.
+- [x] Emrah Hoca kaynağındaki karışıklığı kaldırıp doğrulanabilir eğitim sayfası yönlendirmesiyle değiştir.
+- [x] Resmî Tekdüzen Hesap Planı temelli, sınıf ve hesap kodu bazlı ayrıntılı rehber ekle.
+- [x] Beş dakikada bir açılan, kapatılabilir karikatürlü bilgi kutuları ve eğlenceli mikro görseller oluştur.
+- [x] Yeni içerik ve zamanlı bilgi kutusunu masaüstü/mobilde test ederek sürümü kaydet.
+- [x] Çek/senet, satış iskontosu, amortisman, ücret/SGK, vergi tahakkuku, kredi ve nazım hesap işlemleri için yevmiye turları ekle.
+- [x] Yeni senaryoların hesap kodu, borç/alacak yönü ve gerekçe metinlerini doğrula.
+- [x] Yevmiye tur çeşitliliğini masaüstü/mobilde test ederek güncel sürümü kaydet.
+- [x] Senaryolara işlem tutarlarını ve borç/alacak toplam bilgisini ekle.
+- [x] Yevmiye kartına terazili denge görünümü, temizleme ve anlaşılır kontrol akışı ekle.
+- [x] Doğru/yanlış kaydı için görsel, işlem satırı bazlı geri bildirim ekle.
+- [x] Yeni yevmiye kartını masaüstü ve mobilde test ederek güncel sürümü kaydet.
+- [x] Büyük yevmiye kartını oyunların üstünden kaldırıp eski yevmiye alanına akış içinde yerleştir.
+- [x] Büyük defter, yevmiye defteri ve defter-i kebir için kısa görsel kullanım rehberi ekle.
+- [x] Makbuz/fiş türleri, beyanname-tahakkuk akışı ve vergi türleri için kaynaklı pratik kartlar oluştur.
+- [x] Beyanname son günleri için resmi kaynak yönlendirmesi ve güncelleme notu ekle.
+- [x] Hesap akış haritasını alternatif işlem senaryoları ve daha anlaşılır rota diliyle yeniden tasarla.
+- [x] Yeni yerleşim ve rehberleri masaüstü/mobilde test ederek teslim sürümünü kaydet.
+- [x] Ana uygulamayı Ana Defter, Temel Kavramlar, Oyunlar, Hesap Rotası, Tablolar & Vergi ve Sınav Merkezi sayfalarına ayır.
+- [x] Varlık, borç, özkaynak, gelir, gider, tahakkuk, dönemsellik, belgelendirme ve sosyal sorumluluk kavramları için eğlenceli mini anlatımlar ekle.
+- [x] Her temel kavram için kısa karakter satırı, karşılaştırma kartı ve küçük pratik sorusu oluştur.
+- [x] Sekmeler arası gezinme, aktif durum ve mobil alt gezinmeyi güncelle.
+- [x] Ayrı sayfa yapısını masaüstü/mobilde test ederek güncel sürümü kaydet.
+- [x] Video Dersleri ve PDF Kütüphanesi için ayrı sekmeler/çalışma sayfaları ekle.
+- [x] 2026 SGS video kaynaklarını ders ve konu bazında dış bağlantılarla genişlet.
+- [x] Resmî PDF, soru/cevap arşivi ve konu notu yönlendirmelerini kaynak türüne göre grupla.
+- [x] Kaynak kartlarında tarih, tür ve dış bağlantı açıklamasını görünür kıl.
+- [x] Kaynak sayfalarını masaüstü/mobilde test ederek güncel sürümü kaydet.
+- [x] Emrah Hoca’nın ilgili muhasebe ve SGS ders video bağlantılarını doğrula.
+- [x] Emrah Hoca videolarını konu ve dönem etiketiyle Video Dersleri koleksiyonuna ekle.
+- [x] 2026 olarak doğrulanamayan temel anlatımları ayrı bir etiketle göster.
+- [x] Güncellenen video kütüphanesini masaüstü/mobilde test ederek sürümü kaydet.
+- [x] Yayınlanan web sitesi bağlantısının erişim hatasını doğrula ve erişimi yeniden kontrol et.
+- [x] Kullanıcı tarafında açılmayan yayın alan adının görünürlük ve dış erişim ayarını doğrula; çalışır bağlantı için tekrar teyit al.
+- [x] ERR_CONNECTION_RESET hatasını alan adı, TLS ve ağ erişimi açısından yeniden doğrula; kullanıcıya uygulanabilir erişim alternatifi sun.
+- [x] www.hesapkahramanlari.com alan adını bağlama işlemini kullanıcı satın alma yapmamayı seçtiği için uygulama; özel alan adı sahiplik/uygunluk kontrolü yapılmadı.
+- [x] Kullanıcının ağı üzerinden denemesi için satın alma gerektirmeyen geçici erişim bağlantısı oluştur ve doğrula.
+- [x] Duran geçici paylaşım bağlantısının durumunu doğrula ve kullanıcıya kalıcı paylaşım sınırını açıkla.
+- [x] Çoklu cihaz ve ağda tekrarlanan ERR_CONNECTION_RESET hatasının yayın altyapısı kaynaklı bulgusunu doğrula ve çözüm yolunu ilet.
+- [x] Kalıcı ücretsiz erişim alternatifi sağlanamadığını; çoklu cihazdaki yayın alan adı erişim engelinin proje koduyla düzeltilemeyeceğini ve platform desteği gerektirdiğini açıkça belgeleyip kullanıcıya ilet.
+- [x] ZIP projesini düzenleme, Node.js ile yerelde çalıştırma ve Vercel/Netlify yayını için teknik rehber hazırla.
+- [x] Uygulamayı tam yığın mimariye yükselt ve güvenli dosya depolama özelliğini yapılandır.
+- [x] Çalışma kaynağı yükleme, listeleme ve erişim akışını kullanıcı arayüzüne entegre et.
+- [x] Dosya Kasası sayfasını, rotasını ve tüm gezinti bağlantılarını uygulamadan kaldır.

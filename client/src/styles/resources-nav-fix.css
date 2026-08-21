@@ -1,0 +1,3 @@
+/* Defter-i Neşeli tasarım notu: Masaüstü ciltte sayfa adları dikey okunur; yalnız mobilde başparmak erişimi için dört sütuna ayrılır. */
+@media (min-width:851px) { .tabbed-campus .rail-nav { grid-template-columns:1fr; } }
+@media (max-width:850px) { .tabbed-campus .rail-nav { grid-template-columns:repeat(4,minmax(0,1fr)); } }
