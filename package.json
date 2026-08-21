@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
+  "imports": {
+    "@shared/*": "./shared/*"
+  },
   "scripts": {
     "dev": "NODE_ENV=development tsx watch server/_core/index.ts",
-    "build": "vite build",
-    "start": "pnpm exec tsx server/_core/index.ts",
+    "build": "vite build && esbuild server/_core/index.ts --platform=node --bundle --format=esm --outdir=dist",
+    "start": "node dist/index.js",
     "check": "tsc --noEmit",
     "format": "prettier --write .",
     "test": "vitest run",
